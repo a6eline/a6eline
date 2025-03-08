@@ -1,5 +1,4 @@
-## Hi there 👋
-
+## About Me
 <!--
 **a6eline/a6eline** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +13,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+I mostly program in C/C++. Currently working with microcontrollers, main projects right now is the [ML_alarm_clock](https://github.com/a6eline/ML_alarm_clock). 
