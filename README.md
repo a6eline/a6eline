@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I mostly program in C/C++. Currently working with microcontrollers, main projects right now is the [ML_alarm_clock](https://github.com/a6eline/ML_alarm_clock).
+I mostly program in C/C++. Currently working with microcontrollers, main project right now is the [ML_alarm_clock](https://github.com/a6eline/ML_alarm_clock).
 
 ### Pinned Repos:
 - [ML_alarm_clock](https://github.com/a6eline/ML_alarm_clock): Remote accessed Alarm Clock to combat excessive snoozing and enhance productivity. (collaborative project)
